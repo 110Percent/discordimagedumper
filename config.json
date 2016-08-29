@@ -1,0 +1,13 @@
+{
+	"token": null,
+	"email": null,
+	"password": null,
+
+	"folder": "./img",
+
+	"rate": 2000,
+
+	"channelid": null,
+
+	"filetypes": [".png",".jpg",".jpeg",".gif",".webp",".gifv"]
+}
